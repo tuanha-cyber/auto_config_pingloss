@@ -1,0 +1,2 @@
+# auto_config_pingloss
+auto_config_router_when_ping_loss
